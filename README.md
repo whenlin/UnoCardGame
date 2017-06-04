@@ -1,4 +1,4 @@
 # UnoCardGame
 
-A simulation of the popular card game Uno written in C++. 
+A simulation of 4 players playing the popular card game Uno written in C++. 
 
